@@ -24,33 +24,33 @@ let package = Package(
     targets: [
         .binaryTarget(
           name: "Au10tixCore",
-          url: "https://github.com/au10tixmobile/Au10tixCore/archive/refs/tags/3.28.0.zip",
-          checksum: "d9124ee6ebb0989c5a5590f7de5d26419bb0e0cca016eeaae457f4ee71c15b2e"
+          url: "https://github.com/au10tixmobile/Au10tixCore/archive/refs/tags/4.0.0.zip",
+          checksum: "ed5691a5d3bf0e519daa6c0e814c9900d77bd6db00aac68b1931afc87d6683f6"
         ),
         .binaryTarget(
           name: "Au10tixSourceManager",
-          url: "https://github.com/au10tixmobile/Au10tixSourceManager/archive/refs/tags/3.28.0.zip",
-          checksum: "661b4bc052ad236b654f8d09f4170462b991ec6ef8df35d37a9b6a113a23653f"
+          url: "https://github.com/au10tixmobile/Au10tixSourceManager/archive/refs/tags/4.0.0.zip",
+          checksum: "8bc55b8fe260a75fcd1a191e2c0f02faf1c10b805c4cbf7c00ea8eb74c66ec1f"
         ),
         .binaryTarget(
           name: "Au10tixDetectorManager",
-          url: "https://github.com/au10tixmobile/Au10tixDetectorManager/archive/refs/tags/3.28.0.zip",
-          checksum: "5387081f3e4a03cc2021e3405b267b51377832ce7aff41989d24a5823edfa014"
+          url: "https://github.com/au10tixmobile/Au10tixDetectorManager/archive/refs/tags/4.0.0.zip",
+          checksum: "58741a60c387dd59de4d184db761d007d0ac88a9989b6dac66e1e6627f9d93c7"
         ),
         .binaryTarget(
           name: "Au10tixPassiveFaceLivenessKit",
-          url: "https://github.com/au10tixmobile/Au10tixPassiveFaceLivenessKit/archive/refs/tags/3.28.0.zip",
-          checksum: "0f727335953db1e72572dc8676b0fa8acd620621d64a8e88807086bbfe22f200"
+          url: "https://github.com/au10tixmobile/Au10tixPassiveFaceLivenessKit/archive/refs/tags/4.0.0.zip",
+          checksum: "32ba28df7109a95f3ee0e5cf694ef0f5a74303185786cc0d4e9c64088dbe6fe2"
         ),
         .binaryTarget(
           name: "Au10tixBaseUI",
-          url: "https://github.com/au10tixmobile/Au10tixBaseUI/archive/refs/tags/3.28.0.zip",
-          checksum: "e3812351794a528b808704a99665690af8437fb55e184d7ab65df7b14fd1cdc2"
+          url: "https://github.com/au10tixmobile/Au10tixBaseUI/archive/refs/tags/4.0.0.zip",
+          checksum: "42eec055956b9973b0daef9548816b7a20f11baf33518010f73205d683e32fa4"
         ),
         .binaryTarget(
           name: "Au10tixHelmetDetectionUI",
-          url: "https://github.com/au10tixmobile/Au10tixHelmetDetectionUI/archive/refs/tags/3.28.0.zip",
-          checksum: "7046a8b36cf3b8c85086381a0d23d6921421180fd57f24fab34431093de7b513"
+          url: "https://github.com/au10tixmobile/Au10tixHelmetDetectionUI/archive/refs/tags/4.0.0.zip",
+          checksum: "19c7650e0717159fe25561402332b7b2b820e31b0b80740af92460b6ffff6215"
         )
     ]
 )
