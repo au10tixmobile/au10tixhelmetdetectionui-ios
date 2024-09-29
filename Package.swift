@@ -19,8 +19,8 @@ let package = Package(
     targets: [
         .binaryTarget(
           name: "Au10tixHelmetDetectionUI",
-          url: "https://github.com/au10tixmobile/Au10tixHelmetDetectionUI/archive/refs/tags/4.2.1.zip",
-          checksum: "c82a8875145b9cf74100ca7a8a62ed351f4d021df65011982b10580424d927ce"
+          url: "https://github.com/au10tixmobile/Au10tixHelmetDetectionUI/archive/refs/tags/4.3.0.zip",
+          checksum: "f20bfa32ce38834f686afbfbadee47ac6da5e3d2dc097f706ef3d49a054178af"
         )
     ]
 )
